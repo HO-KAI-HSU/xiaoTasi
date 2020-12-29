@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "travelManagement", "travelManagement\travelManagement.csproj", "{88AA5AA3-9ECB-4813-A8ED-80B53EE90DD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "travelManagement.Tests", "travelManagement.Tests\travelManagement.Tests.csproj", "{94171EDF-239C-4FB6-877E-B469ED34581E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88AA5AA3-9ECB-4813-A8ED-80B53EE90DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AA5AA3-9ECB-4813-A8ED-80B53EE90DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AA5AA3-9ECB-4813-A8ED-80B53EE90DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AA5AA3-9ECB-4813-A8ED-80B53EE90DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94171EDF-239C-4FB6-877E-B469ED34581E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94171EDF-239C-4FB6-877E-B469ED34581E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94171EDF-239C-4FB6-877E-B469ED34581E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94171EDF-239C-4FB6-877E-B469ED34581E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
